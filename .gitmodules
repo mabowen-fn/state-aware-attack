@@ -1,0 +1,3 @@
+[submodule "external/Response-Attack"]
+	path = external/Response-Attack
+	url = https://github.com/Dtc7w3PQ/Response-Attack.git
